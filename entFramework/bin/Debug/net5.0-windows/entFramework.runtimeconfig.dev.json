@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Crysi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Crysi\\.nuget\\packages"
+    ]
+  }
+}
